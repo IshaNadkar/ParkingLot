@@ -1,5 +1,5 @@
 ## ParkingLot
-Design a parking lot using Python with TDD approach
+Design a parking lot using Python
 
 ## Dependencies
 
